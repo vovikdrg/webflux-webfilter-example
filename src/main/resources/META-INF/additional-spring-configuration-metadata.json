@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "jwt.jwk-uri",
+      "type": "java.lang.String",
+      "description": "Description for jwt.jwk-uri."
+  }
+] }
