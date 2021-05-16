@@ -1,3 +1,3 @@
 # Source code for blog
 
-https://bilyachat.com/blog/protect-java-spring-boot-with-active-directory-using-reactive-webfilter
+https://bilyachat.com/blog/how-to-create-spring-boot-reactive-webfilter-and-validate-jwt
